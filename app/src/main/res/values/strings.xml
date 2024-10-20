@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">LABO1B</string>
+    <string name="message_textView_img"> Ceci est une zone de texte avec 4 images</string>
+    <string name="btn_txt"> Afficher</string>
+
+    <item name="myEditText" type="id" />
+</resources>
